@@ -16,3 +16,5 @@ Projeto desenvolvido em VueJs e Electron - Palavras mais usadas em Legendas de f
       C:\WebModerno\Curso-Projeto-Vue-ElectronJs\most-used-words3> cd most-used-words3
       
       C:\WebModerno\Curso-Projeto-Vue-ElectronJs\most-used-words3> vue add vuetify  ---> adicionando vuetify (biblioteca de componente do vue)
+      
+      [Link da Biblioteca vuetify](https://vuetifyjs.com/en/)
