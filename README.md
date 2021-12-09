@@ -1,6 +1,10 @@
 # Cod3r-Palavras-Mais-Usadas
 Projeto desenvolvido em VueJs e Electron - Palavras mais usadas em Legendas de filmes em formato .srt
 
+## Links Úteis
+
+[Link da Biblioteca vuetify](https://vuetifyjs.com/en/)
+
 ## Configurando o Projeto
 
 1o - Instalando o Vue Cliente, caso não tenha sido instalado previamente:
@@ -17,4 +21,4 @@ Projeto desenvolvido em VueJs e Electron - Palavras mais usadas em Legendas de f
       
       C:\WebModerno\Curso-Projeto-Vue-ElectronJs\most-used-words3> vue add vuetify  ---> adicionando vuetify (biblioteca de componente do vue)
       
-      [Link da Biblioteca vuetify](https://vuetifyjs.com/en/)
+      
